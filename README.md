@@ -15,14 +15,20 @@ Content: sample each 10 minutes, written on a line in this order:
 
 Details of fields, separated by TAB:
 
-date format: yy/mm/dd with yy= year; mm= month; dd= day; (eg. 17/11/20 is the november 11, 2017
+date format: yy/mm/dd with yy= year; mm= month; dd= day; (eg. 17/11/20 is the november 11, 2017)
+
 time format: hh:mm:ss with hh=hour; mm= minute; ss= second (eg. 05:30:00)
+
 Note: because the sample are made each 10 minutes, mm is alway 00.
 
 pump usage : 0 to 100 percent of use in the sample (eg. if the pump usage is 5 minutes, gives 50 % -> 50)
+
 temp1 : temperature un degrees of solar cicuit
+
 temp 2: temperature of solar water volume
+
 temp 3 : temperature of hot water volume
+
 \n : end of line, also CRLF
 
 More details (but in french) on http://microclub.ch/2014/10/11/yun-monitoring-de-leau-solaire/ 
