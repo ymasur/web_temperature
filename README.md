@@ -2,7 +2,7 @@
 WEB part for solar hot water monitoring
 Used by Yun, or any WEB server by pushing the datas with ftp.
 Create the appropriate directory, and copy all files.
-A web page is created by PHP function, showing a day of data.
+A web page is created by PHP function, showing a day of data. Sample results here: https://yvesmasur.ch/ecs/
 
 The data:
 Each month, a new file is created by Arduino Yun, with name: <yymm>data.txt
