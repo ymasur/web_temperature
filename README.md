@@ -11,7 +11,7 @@ mm= Month with 2 digits (eg. april -> 04)
 
 Content: sample each 10 minutes, written on a line in this order:
 
-<date> \t <hour:minutes:seconds> \t <percent of pump usage> \t <temp1> \t <temp2> \t <temp3> \n
+{date} \t hour:minutes:seconds \t percent of pump usage \t temp1 \t temp2 \t temp3 \n
 
 Details of fields, separated by TAB:
 
