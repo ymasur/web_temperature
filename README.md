@@ -1,4 +1,4 @@
-# web_temperature
+# web_temperature - OLD! Use ECS_WEB_DATA instead
 WEB part for solar hot water monitoring
 Used by Yun, or any WEB server by pushing the datas with ftp.
 Create the appropriate directory, and copy all files.
